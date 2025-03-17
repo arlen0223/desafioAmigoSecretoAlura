@@ -1,8 +1,4 @@
 <h1> Desafio Amigo Secreto</h1>
 
-- Estado del proyecto: en construcción.
+- Estado del proyecto: Finalizado
 
-Para ejecutar el sistema debes poner:
-
-
-```la la```
